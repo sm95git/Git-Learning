@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 98FF-9916
+
+ Directory of C:\Users\Haraprasad\Desktop\gitdemo
+
+06-02-2024  17:43    <DIR>          .
+06-02-2024  17:43    <DIR>          ..
+05-02-2024  18:18                 0 demo.txt
+06-02-2024  17:43                 0 test.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  66,882,478,080 bytes free
